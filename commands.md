@@ -14,6 +14,8 @@ rpm-ostree install ffmpeg gstreamer1-libav fuse-exfat zsh git vim-enhanced gnome
 
 rpm-ostree override remove firefox yelp
 
+flatpak remove --all
+
 ## ver como colocar no os-tree
 
 sudo dnf copr enable jstaf/onedriver + onedriver
