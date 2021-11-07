@@ -34,7 +34,7 @@ rpm-ostree override remove firefox yelp gnome-tour
 
 - org.gnome.NautilusPreviewer
 
-flatpak install flathub md.obsidian.Obsidian org.mozilla.firefox com.transmissionbt.Transmission org.gnome.Contacts org.gnome.Calculator org.gnome.gedit org.gnome.baobab org.gnome.eog org.gnome.Shotwell org.gnome.Evince org.flameshot.Flameshot org.gnome.Logs org.gnome.FileRoller org.gnome.font-viewer org.gnome.Calendar org.gnome.Extensions org.gnome.Totem org.gnome.Epiphany org.gnome.SoundRecorder org.libreoffice.LibreOffice org.gimp.GIMP org.freedesktop.Piper org.gabmus.hydrapaper nl.hjdskes.gcolor3 com.hamrick.VueScan com.github.liferooter.textpieces com.belmoussaoui.Obfuscate com.obsproject.Studio com.github.tchx84.Flatseal com.spotify.Client com.discordapp.Discord cc.arduino.arduinoide org.gnome.Boxes org.desmume.DeSmuME com.valvesoftware.Steam com.dropbox.Client -y
+flatpak install flathub md.obsidian.Obsidian org.mozilla.firefox com.transmissionbt.Transmission org.gnome.Contacts org.gnome.Calculator org.gnome.gedit org.gnome.baobab org.gnome.eog org.gnome.Shotwell org.gnome.Evince org.flameshot.Flameshot org.gnome.Logs org.gnome.FileRoller org.gnome.font-viewer org.gnome.Calendar org.gnome.Extensions org.gnome.Totem org.gnome.Epiphany org.gnome.SoundRecorder org.libreoffice.LibreOffice org.gimp.GIMP org.freedesktop.Piper org.gabmus.hydrapaper nl.hjdskes.gcolor3 com.github.liferooter.textpieces com.belmoussaoui.Obfuscate com.obsproject.Studio com.github.tchx84.Flatseal com.spotify.Client com.discordapp.Discord cc.arduino.arduinoide org.gnome.Boxes org.desmume.DeSmuME com.valvesoftware.Steam com.dropbox.Client -y
 
 flatpak install flathub-beta net.lutris.Lutris com.google.Chrome -y
 
